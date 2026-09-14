@@ -5,3 +5,5 @@
 - Keep animation imperative inside the Three.js scene; avoid React updates per frame.
 - Cap pixel ratio and retain the performance-mode path.
 - Acceptance: presets are distinct; custom input, screenshot, JSON import/export, share links, keyboard controls, and reduced motion remain functional.
+- The app is anonymous: never add account checks, authentication UI, OAuth, or remote persistence.
+- Audio must be initiated only from a direct player gesture and cleaned up on disable.

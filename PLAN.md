@@ -1,6 +1,6 @@
 # Mood Galaxy plan
 
-1. Establish the Sites-compatible React starter and document project rules.
-2. Implement deterministic emotion mapping, lore, universe generation, and sharing.
-3. Build the WebGL scene and responsive instrument panel.
-4. Validate the production build and publish the resulting site.
+1. Remove inherited authentication artifacts and keep all play local-first.
+2. Add the shared mode shell, procedural audio service, and local settings.
+3. Build playable Tiny Planet and Star Loom modes using deterministic state.
+4. Validate and publish the expanded experience.
